@@ -1,4 +1,4 @@
-# Madlibs App
+# Madlibs App <title>
 
 React app that allows users to browse a list of dogs and view details about each dog.
 
